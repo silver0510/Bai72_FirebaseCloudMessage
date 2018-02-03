@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1076963309257",
+    "firebase_url": "https://hocfcm-1d3fc.firebaseio.com",
+    "project_id": "hocfcm-1d3fc",
+    "storage_bucket": "hocfcm-1d3fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076963309257:android:f23d786a3b4913a0",
+        "android_client_info": {
+          "package_name": "com.example.sinki.fcmclient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1076963309257-48p1n71qpe1r9fn4qkc9k3e6vmd9lthv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByjVmMzfoh2CWEPfvpdENXJ069w34MStE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
